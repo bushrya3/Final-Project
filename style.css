@@ -49,3 +49,11 @@ header {
     border-top: 1px dotted #ccc;
     display: flex;
 }
+
+.img {
+    float: left;
+}
+
+.favgames {
+    float: left;
+}
