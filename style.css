@@ -23,6 +23,7 @@ p {
 #projects {
     border-top: 1px dotted #ccc;
     display: flex;
+    gap: 30px;
 }
 
 .game-project {
