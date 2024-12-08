@@ -50,9 +50,6 @@ header {
     display: flex;
 }
 
-.img {
-    float: left;
-}
 
 .favgames {
     float: right;
