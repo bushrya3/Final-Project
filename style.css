@@ -44,5 +44,6 @@ header {
 }
 
 .resume {
+    border-top: 1px dotted #ccc;
     display: flex;
 }
