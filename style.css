@@ -41,7 +41,6 @@ article:nth-of-type(2){
 header {
     margin: 0;
     padding: 0;
-    height: 100vh;
     position: sticky;
     top: 0;
     background: #8a9fd1;
