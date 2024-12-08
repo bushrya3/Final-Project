@@ -7,7 +7,7 @@ main {
     padding: 40px;
     font-family: Arial, Helvetica, sans-serif;
     color: #242424;
-    border-top: 10px solid #242424;
+    border-top: 10px solid #8a9fd1;
     background: #dae4e9;
     width: 1000px;
 }
@@ -42,7 +42,7 @@ header {
     padding: 0;
     position: sticky;
     top: 0;
-    background: #8a9fd1;
+    background: #dae4e9;
 }
 
 .resume {
