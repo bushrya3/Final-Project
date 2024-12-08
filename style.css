@@ -42,6 +42,7 @@ header {
     position: sticky;
     top: 0;
     background: #8a9fd1;
+    margin: 0;
 }
 
 .resume {
